@@ -21,14 +21,6 @@ The dataset provided by the client is here https://www.kaggle.com/kmader/skin-ca
 * plotly.express
 * streamlit
 
-# Usage
-| Filename                             | Usage                                                     |
-|--------------------------------------|-----------------------------------------------------------|
-| model_data_as_pixels.ipynb | Jupyer Notebook_v1 file containing Python code.<br>Used to make CNN model.<br> |
-| model_training.ipynb      | Jupyer Notebook_v2 file containing Python code.<br>Used to make CNN model.<br> |
-
-
-
 # Future work
 The model was overfitting by a lot.  
 To improve accuracy there has to be looked at more data augmentation techniques  
